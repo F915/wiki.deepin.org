@@ -1,11 +1,11 @@
 ---
-title: Deepin_Transplantation
+title: Deepin_Porting
 description: 
 published: true
-date: 2022-05-18T10:59:34.848Z
+date: 2022-05-20T08:48:32.312Z
 tags: 
 editor: markdown
-dateCreated: 2022-04-21T03:54:47.309Z
+dateCreated: 2022-04-21T03:54:59.524Z
 ---
 
 ## Introduction
@@ -16,7 +16,7 @@ As deepin becomes more and more popular, part of the popular Linux distributions
 
 Other distribution fans are welcomed to migrate to your distributions. If you had already packed to some distributions, please contact us at support@deepin.org.
 
-## System Transplantation
+## Desktop Transplantation
 
 ArchLinux:：<https://www.archlinux.org>
 
@@ -34,4 +34,18 @@ ubuntu：<https://launchpad.net/~leaeasy/+archive/ubuntu/dde>
 
 ## Application Transplantation
 
-TODO
+### Download
+
+* Fedora, openSuse：
+
+  [https://git.oschina.net/wenyinos/netease-cloud-music-rpm](https://git.oschina.net/wenyinos/netease-cloud-music-rpm)
+
+  [https://github.com/Senorsen/netease-cloud-music-rpm](https://github.com/Senorsen/netease-cloud-music-rpm)
+
+* Archlinux：
+  
+  [https://aur.archlinux.org/packages/netease-cloud-music/](https://aur.archlinux.org/packages/netease-cloud-music/)
+
+### Official Introductions
+
+[Deepin Original Applications](https://www.deepin.org/en/original/deepin-installer/)
